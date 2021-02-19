@@ -1,0 +1,17 @@
+.whole{
+    background: #E5E5E5;
+}
+.listStyle{
+    height: 219px;
+    width: 85%;
+    padding: 20px;
+    display: flex;
+    border-radius: 15px;
+    background: #FFFFFF;
+    overflow: hidden;
+    border: 2px solid #E5E5E5;
+
+}
+.background-color{
+    background-color: #FFFFFF;
+}
